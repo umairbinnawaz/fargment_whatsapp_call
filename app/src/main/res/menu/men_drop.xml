@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/first" android:title="Setting"/>
+    <item android:id="@+id/thid" android:title="Call"/>
+    <item android:id="@+id/fouth" android:title="Setting"/>
+    <item android:id="@+id/item3" android:title="Setting"/>
+    <item android:id="@+id/secand" android:title="new broadcast"  app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_baseline_search_24"/>
+
+
+</menu>
